@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  Bomb.cpp
+  BombController.cpp
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\BombController.cpp(41,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ChooseController.cpp
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ChooseController.cpp(36,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ChooseController.cpp(52,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  GameController.cpp
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\GameController.cpp(17,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  MapGenerator.cpp
+  MoveController.cpp
+  RulesController.cpp
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\RulesController.cpp(85,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Saperv1.cpp
+  ViewController.cpp
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ViewController.cpp(48,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ViewController.cpp(61,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ViewController.cpp(81,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ViewController.cpp(151,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ViewController.cpp(166,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Saperv1\ViewController.cpp(171,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Saperv1.vcxproj -> C:\Users\Damia\OneDrive\Pulpit\Pliki\inne\PROJECTS\Saper FINAL FINAL\Debug\Saperv1.exe
